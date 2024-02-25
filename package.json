@@ -11,8 +11,8 @@
   },
   "devDependencies": {
     "@types/node": "20.9.0",
-    "aws-cdk": "2.114.1",
-    "aws-cdk-lib": "2.114.1",
+    "aws-cdk": "^2.130.0",
+    "aws-cdk-lib": "^2.130.0",
     "cdk-lambda-llrt": "^0.0.5",
     "install": "^0.13.0",
     "npm": "^10.4.0",
